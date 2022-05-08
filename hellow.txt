@@ -6,5 +6,8 @@ hellow worldddd hellow world
 hellow worldddd
 hellow worldddd
 hellow worldddd
+<<<<<<< HEAD
 hellow worldddd master test
-hellow worldddd
+=======
+hellow worldddd hot-fix test
+>>>>>>> hot-fix
